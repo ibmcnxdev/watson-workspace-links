@@ -7,6 +7,9 @@
         "include-files": [
           "watsonWorkspaceLinks/watsonWorkspaceLinks.js"
         ],
+        "include-repo": {
+          "name": "watson-workspace-links"
+         },
         "match": {
           "url": "communityUuid=[your-community-id]"
         }
